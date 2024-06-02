@@ -1,6 +1,6 @@
 # Работа с HTML-формами
 
-#### [![Build status](https://ci.appveyor.com/api/projects/status/pf3w2g6q0c7oqvt5?svg=true)](https://ci.appveyor.com/project/ZoomZoom2/ahj-popovers) [[Github Pages](https://ZoomZoom2.github.io/ahj-popovers)]
+#### [![Build status](https://ci.appveyor.com/api/projects/status/pf3w2g6q0c7oqvt5?svg=true)](https://ci.appveyor.com/project/ZoomZoom2/ahj-popovers) [[Github Pages](https://zoomzoom2.github.io/Ahj-popovers)]
 ---
 
 ### Popovers
